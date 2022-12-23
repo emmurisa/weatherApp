@@ -1,5 +1,5 @@
 
-const api = 'd6eb7e0b15724093af6288f5c8a349b7';
+const api = '********************************';
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
